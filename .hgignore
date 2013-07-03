@@ -1,3 +1,4 @@
 syntax: regexp
 ^__pycache__/.*$
 .*\.pyc$
+.*\.class$
